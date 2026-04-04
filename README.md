@@ -1,4 +1,4 @@
-# 🌍 Data Center Cooling Dashboard
+#  Data Center Cooling Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
@@ -9,7 +9,7 @@ A simple decision-support dashboard for selecting efficient data center cooling 
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project explores how key environmental and resource factors influence cooling decisions in data centers across different regions.
 
@@ -24,7 +24,7 @@ The goal is to simulate real-world trade-offs and promote more sustainable infra
 
 ---
 
-## ⚙️ What It Does
+##  What It Does
 
 The dashboard allows users to:
 
@@ -37,7 +37,7 @@ The dashboard allows users to:
   * Liquid Cooling
   * Evaporative Cooling
 
-### 📊 Outputs
+###  Outputs
 
 * Key environmental metrics
 * Energy usage comparison across methods
@@ -45,7 +45,7 @@ The dashboard allows users to:
 
 ---
 
-## 🌍 Why This Matters
+##  Why This Matters
 
 Cooling is one of the biggest challenges in data center operations.
 
@@ -59,7 +59,7 @@ This project demonstrates how cooling strategies can adapt to local conditions f
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 * Python
 * Streamlit
@@ -70,7 +70,7 @@ This project demonstrates how cooling strategies can adapt to local conditions f
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install Dependencies
 
@@ -94,7 +94,7 @@ http://localhost:8501
 
 ---
 
-## ✨ Features
+##  Features
 
 * Interactive dashboard
 * Country-based environmental context
@@ -104,17 +104,8 @@ http://localhost:8501
 
 ---
 
-## 📸 Screenshots
 
-
-
-```
-
-```
-
----
-
-## 📈 Future Improvements
+##  Future Improvements
 
 * Add real-world climate datasets
 * Integrate live weather APIs
@@ -129,7 +120,7 @@ This is a prototype project built to explore sustainable technology concepts in 
 
 ---
 
-## 👤 Author
+##  Author
 
 Your Name
 GitHub: https://github.com/abdimalik252
