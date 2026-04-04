@@ -48,7 +48,26 @@ This project explores how cooling decisions can adapt to these differences.
 ---
 
 ##  How to run
-
 1. Install dependencies:
 ```bash
 pip install streamlit pandas plotly altair requests scikit-learn
+
+2. Run the app:
+```bash
+streamlit run app.py
+3. Open the link shown in the terminal (usually http://localhost:8501
+)
+
+
+
+##  Features
+-Interactive dashboard
+-Country-based environmental context
+-Adjustable local conditions
+-Energy comparison chart
+-Explanation panel for recommendations
+
+💡 Notes
+This is a prototype project created for exploring sustainable technology ideas.
+
+
