@@ -104,7 +104,7 @@ http://localhost:8501
 
 ---
 
-## 📸 (Optional) Add Screenshots
+## 📸 Screenshots
 
 
 
